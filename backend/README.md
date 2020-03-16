@@ -1,4 +1,4 @@
-# CanteenZoom (Canteen Management System)
+# KitchenZoom (Canteen Management System) Backend
 
 
 ## Setup instructions
